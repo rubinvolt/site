@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
+	Comments on: Massa Sapien Faucibus Etmolestie	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 16 Jul 2024 17:48:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 May 2021 09:38:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,18 +20,18 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>./../index.html#comment-1</link>
+		<link>./../index.html#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Tue, 16 Jul 2024 17:48:48 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+		<pubDate>Fri, 07 May 2021 09:38:43 +0000</pubDate>
+		<guid isPermaLink="false">https://startersites.io/blocksy/yogi/?p=1#comment-2</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
 			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
+Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
