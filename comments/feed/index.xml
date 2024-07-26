@@ -7,20 +7,38 @@
 	>
 <channel>
 	<title>
-	Comments for RubinVolt	</title>
+	Kommentare für RubinVolt	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Fri, 07 May 2021 09:38:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jul 2024 17:18:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
-		Comment on Massa Sapien Faucibus Etmolestie by A WordPress Commenter		</title>
-		<link>./../../hello-world/index.html#comment-2</link>
+		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
+		<link>./../../2024/07/21/hallo-welt/index.html#comment-1</link>
+
+		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>
+		<pubDate>Sun, 21 Jul 2024 12:20:31 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+
+					<description><![CDATA[Hallo, dies ist ein Kommentar.
+Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuchen Sie bitte die Kommentare-Ansicht im Dashboard.
+Die Avatare der Kommentatoren kommen von &lt;a href=&quot;https://de.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hallo, dies ist ein Kommentar.<br />
+Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuchen Sie bitte die Kommentare-Ansicht im Dashboard.<br />
+Die Avatare der Kommentatoren kommen von <a href="https://de.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kommentar zu Massa Sapien Faucibus Etmolestie von A WordPress Commenter		</title>
+		<link>./../../2021/05/07/hello-world/index.html#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 07 May 2021 09:38:43 +0000</pubDate>
