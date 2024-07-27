@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Kommentare für rubinvolt	</title>
-	<atom:link href="http://rubinvolt.test/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://rubinvolt.test/</link>
+	Kommentare zu: Hallo Welt!	</title>
+	<atom:link href="http://rubinvolt.test/2024/07/27/hallo-welt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://rubinvolt.test/2024/07/27/hallo-welt/</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 Jul 2024 06:47:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
-		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
+		Von: Ein WordPress-Kommentator		</title>
 		<link>http://rubinvolt.test/2024/07/27/hallo-welt/#comment-1</link>
 
 		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>

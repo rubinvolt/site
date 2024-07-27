@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>rubinvolt</title>
-	<atom:link href="http://rubinvolt.test/feed/" rel="self" type="application/rss+xml" />
+	<title>rubinvolt &#8211; rubinvolt</title>
+	<atom:link href="http://rubinvolt.test/author/rubinvolt/feed/" rel="self" type="application/rss+xml" />
 	<link>http://rubinvolt.test/</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 Jul 2024 06:47:30 +0000</lastBuildDate>
