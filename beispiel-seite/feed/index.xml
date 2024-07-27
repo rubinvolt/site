@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Beispiel-Seite	</title>
-	<atom:link href="http://rubinvolt.test/beispiel-seite/feed/" rel="self" type="application/rss+xml" />
-	<link>http://rubinvolt.test/</link>
+	<atom:link href="rubinvolt.github.io/site/beispiel-seite/feed/" rel="self" type="application/rss+xml" />
+	<link>rubinvolt.github.io/site/</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 Jul 2024 06:47:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
