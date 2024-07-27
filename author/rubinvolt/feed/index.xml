@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 27 Jul 2024 06:47:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jul 2024 07:17:08 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,30 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
+		<title>bfdsbvgfd</title>
+		<link>./../../../2024/07/27/bfdsbvgfd/index.html</link>
+					<comments>./../../../2024/07/27/bfdsbvgfd/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[rubinvolt]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2024 07:16:42 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=12</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<p><a href="./../../../wp-admin/edit.php?post_type=post"></a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/07/27/bfdsbvgfd/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hallo Welt!</title>
 		<link>./../../../2024/07/27/hallo-welt/index.html</link>
 					<comments>./../../../2024/07/27/hallo-welt/index.html#comments</comments>
