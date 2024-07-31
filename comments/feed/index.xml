@@ -11,7 +11,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 27 Jul 2024 07:17:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jul 2024 17:18:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,18 +20,36 @@
 	<item>
 		<title>
 		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
-		<link>./../../hallo-welt/index.html#comment-1</link>
+		<link>./../../2024/07/21/hallo-welt/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>
-		<pubDate>Sat, 27 Jul 2024 06:47:30 +0000</pubDate>
+		<pubDate>Sun, 21 Jul 2024 12:20:31 +0000</pubDate>
 		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Hallo, dies ist ein Kommentar.
-Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuche bitte die Kommentare-Ansicht im Dashboard.
+Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuchen Sie bitte die Kommentare-Ansicht im Dashboard.
 Die Avatare der Kommentatoren kommen von &lt;a href=&quot;https://de.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
 			<content:encoded><![CDATA[<p>Hallo, dies ist ein Kommentar.<br />
-Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuche bitte die Kommentare-Ansicht im Dashboard.<br />
+Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuchen Sie bitte die Kommentare-Ansicht im Dashboard.<br />
 Die Avatare der Kommentatoren kommen von <a href="https://de.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kommentar zu Massa Sapien Faucibus Etmolestie von A WordPress Commenter		</title>
+		<link>./../../2021/05/07/hello-world/index.html#comment-2</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Fri, 07 May 2021 09:38:43 +0000</pubDate>
+		<guid isPermaLink="false">https://startersites.io/blocksy/yogi/?p=1#comment-2</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
