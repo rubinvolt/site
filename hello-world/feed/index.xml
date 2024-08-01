@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Massa Sapien Faucibus Etmolestie	</title>
+	Kommentare zu: Massa Sapien Faucibus Etmolestie	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Von: A WordPress Commenter		</title>
 		<link>./../index.html#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
-		<link>./../../2024/07/21/hallo-welt/index.html#comment-1</link>
+		<link>./../../hallo-welt/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>
 		<pubDate>Sun, 21 Jul 2024 12:20:31 +0000</pubDate>
@@ -38,7 +38,7 @@ Die Avatare der Kommentatoren kommen von <a href="https://de.gravatar.com/">Grav
 		<item>
 		<title>
 		Kommentar zu Massa Sapien Faucibus Etmolestie von A WordPress Commenter		</title>
-		<link>./../../2021/05/07/hello-world/index.html#comment-2</link>
+		<link>./../../hello-world/index.html#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 07 May 2021 09:38:43 +0000</pubDate>
